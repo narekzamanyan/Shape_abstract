@@ -1,8 +1,6 @@
 public class Main {
 
     public static void main(String[] args ) {
-        Circle c1 = new Circle("blue", true, 7.7);
-
 
         Shape []shapes = new Shape[10];
         for (int i=0; i<10; i++){
